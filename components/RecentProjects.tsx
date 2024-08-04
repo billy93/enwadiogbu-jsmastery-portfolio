@@ -3,7 +3,7 @@ import { describe } from "node:test";
 import { title } from "process";
 import React from "react";
 import { div } from "three/webgpu";
-import { PinContainer } from "./ui/3D-Pin";
+import { PinContainer } from "./ui/3d-pin";
 import { FaLocationArrow } from "react-icons/fa6";
 
 const RecentProjects = () => {
